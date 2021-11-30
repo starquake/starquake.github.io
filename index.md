@@ -7,6 +7,7 @@ Hosted on GitHub Pages for maximum efficiency (or laziness)
 * [Twitter](https://twitter.com/starquake48)
 
 ### Favorite projects
+* [Rust Programming Language](https://www.rust-lang.org/) - A programming language that I'm really starting to like
 * [The Lounge](https://github.com/thelounge/thelounge) - Modern, responsive, cross-platform, self-hosted web IRC client
 * [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Easy to get started sample reference microservice and container based application
 * [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay
